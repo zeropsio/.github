@@ -10,4 +10,4 @@ We recommend visiting [Zerops](https://zerops.io/) and our [Discord Server](http
 * [zCLI](https://github.com/zeropsio/zcli) 
 * [Documentation](https://docs.zerops.io/)
 
-Visit our [Discord](https://discord.gg/xxzmJSDKPT), [Twitter](https://twitter.com/zeropsio), or [Reddit](https://reddit.com/r/zerops). You can also use our email: `support@zerops.io` for getting in touch.
+Visit our [Discord](https://discord.gg/xxzmJSDKPT), [Twitter](https://twitter.com/zeropsio), or [Reddit](https://reddit.com/r/zerops). You can also use our email: `support@zerops.io` to get in touch.
