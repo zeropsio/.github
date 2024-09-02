@@ -1,14 +1,6 @@
-<h2><img height="20" src="https://github.com/zeropsio/recipe-shared-assets/blob/main/icons/heart.svg">&nbsp;&nbsp;Welcome to Zerops</h2>
+## Welcome to [Zerops](https://zerops.io)
 
 ![Cover](https://github.com/zeropsio/recipe-shared-assets/blob/main/covers/org-cover.png)
-
-</br>
-
-[![Dev.to blog](https://github.com/zeropsio/recipe-shared-assets/blob/main/buttons/dev-to.svg)](https://dev.to/zeropsio)&nbsp;&nbsp;
-[![Discord](https://github.com/zeropsio/recipe-shared-assets/blob/main/buttons/discord.svg)](https://discord.gg/xxzmJSDKPT)&nbsp;&nbsp;
-[![LinkedIn](https://github.com/zeropsio/recipe-shared-assets/blob/main/buttons/linkedin.svg)](http://linkedin.com/company/zerops/)&nbsp;&nbsp;
-[![YouTube](https://github.com/zeropsio/recipe-shared-assets/blob/main/buttons/youtube.svg)](https://www.youtube.com/@zeropsio)&nbsp;&nbsp;
-[![X](https://github.com/zeropsio/recipe-shared-assets/blob/main/buttons/x.svg)](https:x.com/zeropsio)&nbsp;&nbsp;
 
 </br>
 
