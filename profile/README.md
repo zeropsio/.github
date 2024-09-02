@@ -1,5 +1,3 @@
-## Welcome to [Zerops](https://zerops.io)
-
 ![Cover](https://github.com/zeropsio/recipe-shared-assets/blob/main/covers/org-cover.png)
 
 </br>
